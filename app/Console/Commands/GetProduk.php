@@ -17,7 +17,7 @@ class GetProduk extends Command
     {
         date_default_timezone_set('Asia/Jakarta');
         
-        $username = 'tesprogrammer290126C22'; 
+        $username = 'tesprogrammer300126C00'; 
         
         $tanggal = date('d-m-y'); 
         $passwordString = "bisacoding-" . $tanggal;
